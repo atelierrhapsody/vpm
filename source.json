@@ -12,6 +12,7 @@
         "text":"View on GitHub"
     },
     "githubRepos":[],
+    "bannerUrl":"banner.png",
     "packages":[
         {
             "name":"com.atelierrhapsody.mimipiko.raddoll",
