@@ -1,27 +1,23 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"AtelierRhapsody",
+    "id":"com.atelierrhapsody.vpm",
+    "url":"https://atelierrhapsody.github.io/vpm/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "name":"AtelierRhapsody",
+        "url":"https://rhp.booth.pm/"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"AtelierRhapsody of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://atelierrhapsody.github.io/vpm",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
+    "githubRepos":[],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"com.atelierrhapsody.mimipiko.raddoll",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/atelierrhapsody/MiMiPiko-Release/releases/download/Raddoll_v1.0.0/com.atelierrhapsody.mimipiko.raddoll.zip"
             ]
         }
     ]
